@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+### [1.0.2](https://www.github.com/ad-m/opentelemetry-js-api/compare/v1.0.1...v1.0.2) (2021-12-08)
+
+
+### Bug Fixes
+
+* align globalThis fallbacks with otel-core ([#126](https://www.github.com/ad-m/opentelemetry-js-api/issues/126)) ([3507de7](https://www.github.com/ad-m/opentelemetry-js-api/commit/3507de7c3b95396696657c021953b0b24a63a029))
+* remove all circular dependencies ([#119](https://www.github.com/ad-m/opentelemetry-js-api/issues/119)) ([a8083e8](https://www.github.com/ad-m/opentelemetry-js-api/commit/a8083e84b23227828745da80fd5fe512357dd34b))
+* set delegate after successful registration ([#105](https://www.github.com/ad-m/opentelemetry-js-api/issues/105)) ([071d33e](https://www.github.com/ad-m/opentelemetry-js-api/commit/071d33e32ffbb37fa108db3a46562b8032c7ca59))
+
 ### [1.0.3](https://www.github.com/open-telemetry/opentelemetry-js-api/compare/v1.0.2...v1.0.3) (2021-08-30)
 
 
