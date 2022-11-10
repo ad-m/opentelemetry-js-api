@@ -1,4 +1,9 @@
 
+> **Warning**
+> This repository has been archived.
+> The [`@opentelemetry/api`](https://www.npmjs.com/package/@opentelemetry/api) source has been moved to <https://github.com/open-telemetry/opentelemetry-js/tree/main/api>.
+> This repository is kept for historical purposes only.
+
 ---
 <p align="center">
   <strong>
@@ -32,8 +37,6 @@
 # OpenTelemetry API for JavaScript
 
 [![NPM Published Version][npm-img]][npm-url]
-[![dependencies][dependencies-image]][dependencies-url]
-[![devDependencies][devDependencies-image]][devDependencies-url]
 
 This package provides everything needed to interact with the OpenTelemetry API, including all TypeScript interfaces, enums, and no-op implementations. It is intended for use both on the server and in the browser.
 
@@ -136,10 +139,6 @@ Apache 2.0 - See [LICENSE][license-url] for more information.
 [discussions-url]: https://github.com/open-telemetry/opentelemetry-js/discussions
 [license-url]: https://github.com/open-telemetry/opentelemetry-js-api/blob/main/LICENSE
 [license-image]: https://img.shields.io/badge/license-Apache_2.0-green.svg?style=flat
-[dependencies-image]: https://status.david-dm.org/gh/open-telemetry/opentelemetry-js-api.svg
-[dependencies-url]: https://david-dm.org/open-telemetry/opentelemetry-js-api
-[devDependencies-image]: https://status.david-dm.org/gh/open-telemetry/opentelemetry-js-api.svg?type=dev
-[devDependencies-url]: https://david-dm.org/open-telemetry/opentelemetry-js-api?type=dev
 [npm-url]: https://www.npmjs.com/package/@opentelemetry/api
 [npm-img]: https://badge.fury.io/js/%40opentelemetry%2Fapi.svg
 [docs-tracing]: https://github.com/open-telemetry/opentelemetry-js-api/blob/main/docs/tracing.md
